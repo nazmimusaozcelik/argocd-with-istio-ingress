@@ -1,0 +1,1 @@
+# argocd-with-istio-ingress
